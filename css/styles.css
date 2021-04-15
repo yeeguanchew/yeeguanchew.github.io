@@ -10129,3 +10129,8 @@ section.resume-section .resume-section-content {
   border-radius: 50%;
   display: inline-block;
 }
+
+.quote{
+  margin-top: 6rem !important;
+  margin-bottom: 3rem;
+}
